@@ -1,6 +1,6 @@
 # SRT2PRXML
 
-A tool for converting the subtitle file (SRT) to PremierePro supported XML.
+A tool for converting the subtitle file (SRT) to PremierePro-supported XML.
 
 Website: http://srt2prxml.chdo.xyz
 
@@ -10,9 +10,9 @@ Premiere Pro 2022 is designed to specifically limit the visibility to one track 
 
 # Solution
 
-There is a temporary solution resolve the issue by using the tool SRT2PRXML.
+There is a temporary solution to resolve the issue by using the tool SRT2PRXML.
 
-1. Convert your SRT file to Premiere Pro XML in the website https://srt2prxml.chdo.xyz.
+1. Convert your SRT file to Premiere Pro XML on the website https://srt2prxml.chdo.xyz.
 2. Import the XML file into Premiere Pro.
 3. Drag the XML to your track.
 4. (Optional) Edit your font pattern (size or color) of the SRT version subtitle in PR, and store the preset font file once you’re done with the editing. Then, select all of your XML version subtitles in track, drag the font preset and apply it into the selection.
